@@ -1,0 +1,23 @@
+
+.formLayout{
+flex-direction: column;
+  display: flex;
+  justify-content: center;
+align-items: center;
+align-self: center;
+flex: 1;
+}
+.formLayout2 {
+width: 50%;
+margin: auto;
+
+}
+.formLayout input{
+     padding: 1%;
+        width: 100%;
+       border: 1px solid #ccc !important;
+      }
+  ul{
+    text-decoration: none;
+    list-style: none;
+  }
